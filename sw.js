@@ -1,4 +1,4 @@
-const CACHE = "petal-v1";
+const CACHE = "petal-v2";
 
 const APP_SHELL = [
   "./",
